@@ -14,4 +14,4 @@ bun install
 
 to get the required dependencies.
 
-Afterwards, `bun run slidev` will open the presentation on `localhost:3030`.
+Afterwards, `bun run dev` will open the presentation on `localhost:3030`. To get `dist`, please run `bun run build`.
