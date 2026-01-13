@@ -24,18 +24,26 @@ biblio:
 # Agenda
 
 <br>
-<div style="font-size:1.2em">
 <ol>
-    <li><i>What are counterfactual explanations?</i></li>
+    <li>Shortly on XAI</li>
+    <li>What are counterfactual explanations?</li>
+      <ul style="margin-left: 2em;">
+        <li>Defintion</li>
+        <li>Properties</li>
+        <li>Applications</li>
+      </ul>
     <br/>
-    <li><i>How to generate them?</i></li>
+    <li>How to generate them?</li>
     <br/>
-    <li></li>
+    <li>My research</li>
     <br>
 </ol>
-</div>
 
 <SlideNumber/>
+
+---
+src: ./pages/xai.md
+---
 
 ---
 src: ./pages/guidotti.md
@@ -55,10 +63,33 @@ src: ./pages/ppcef.md
 
 
 ---
+src: ./pages/modalities.md
+---
 
-# Different modalities
 
-here are some modalities
+---
+
+<br>
+<br>
+<br>
+
+<div style="font-size: 4em; text-align: center;">
+My Research
+</div>
+
+<SlideNumber/>
+
+---
+src: ./pages/aciids-ts.md
+---
+
+---
+src: ./pages/ebm.md
+---
+
+---
+src: ./pages/textual-cfe.md
+---
 
 
 ---
